@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\everything.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|solutionrelative:fisrt_type\\everything.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\fisrt_type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|solutionrelative:fisrt_type\\fisrt_type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\convert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|solutionrelative:fisrt_type\\convert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{353433E7-230B-4041-8EF1-A58FBCD9F4AE}|fisrt_type\\fisrt_type.vcxproj|solutionrelative:fisrt_type\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "everything.h",
+              "DocumentMoniker": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\everything.h",
+              "RelativeDocumentMoniker": "fisrt_type\\everything.h",
+              "ToolTip": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\everything.h",
+              "RelativeToolTip": "fisrt_type\\everything.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T17:01:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fisrt_type.cpp",
+              "DocumentMoniker": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\fisrt_type.cpp",
+              "RelativeDocumentMoniker": "fisrt_type\\fisrt_type.cpp",
+              "ToolTip": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\fisrt_type.cpp",
+              "RelativeToolTip": "fisrt_type\\fisrt_type.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T17:01:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "convert.cpp",
+              "DocumentMoniker": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\convert.cpp",
+              "RelativeDocumentMoniker": "fisrt_type\\convert.cpp",
+              "ToolTip": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\convert.cpp",
+              "RelativeToolTip": "fisrt_type\\convert.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T17:01:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\input.txt",
+              "RelativeDocumentMoniker": "fisrt_type\\input.txt",
+              "ToolTip": "C:\\Users\\deadrelaxxx\\Desktop\\\u0421\u0435\u043C\u0438\u043D\u0430\u0440\u044B \u0438 \u043B\u0430\u0431\u044B \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043A\u0438\\structurochki_max\\labi\\laba_1\\fisrt_type\\input.txt",
+              "RelativeToolTip": "fisrt_type\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-04T17:01:27.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
